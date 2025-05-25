@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👨‍💻 ¡Hola! Soy Elie Abud – Desarrollador Full Stack
 
-<!--
-**elieabudk/elieabudk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy desarrollador Full Stack con experiencia en la creación de aplicaciones web modernas, escalables y seguras. Me apasiona convertir ideas en soluciones funcionales utilizando tecnologías actuales tanto en el backend como en el frontend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+### 🛠 Backend
+- **Node.js**, **Express**
+- **MongoDB**, **SQL**
+- **JWT**, **Bcrypt**
+- **Morgan**, **Winston** (logging)
+- **Python**
+- **Docker**, **AWS**
+- **Nodemon** (entorno de desarrollo)
+
+### 🎨 Frontend
+- **HTML5**, **CSS3**, **Bootstrap 5**
+- **JavaScript (ES6+)**
+- **React**
+
+---
+
+## 📌 Sobre mí
+- 🎯 Enfocado en escribir código limpio y mantenible.
+- ⚙️ Con experiencia en el desarrollo de APIs RESTful seguras y eficientes.
+- 📦 Desarrollo de interfaces modernas y responsive usando React y Bootstrap.
+- 🧩 Integración de soluciones en la nube y contenedores con Docker y AWS.
+
+---
+
+## 📈 Mis estadísticas (opcional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+![Top Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 ¿Hablamos?
+- ✉️ Email: tuemail@dominio.com  
+- 🌐 Portafolio: [www.tuportafolio.com](http://www.tuportafolio.com)  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](http://linkedin.com/in/tuusuario)
+
+---
+
+Gracias por visitar mi perfil 🚀  
+¡Estoy abierto a nuevas oportunidades y colaboraciones!
