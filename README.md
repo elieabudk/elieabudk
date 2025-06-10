@@ -38,9 +38,8 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador Full Stack con experiencia e
 ---
 
 ## 📫 ¿Hablamos?
-- ✉️ Email: tuemail@dominio.com  
-- 🌐 Portafolio: [www.tuportafolio.com](http://www.tuportafolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](http://linkedin.com/in/tuusuario)
+- ✉️ Email: elieabud@hotmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/elie-abud-231a7a282/)
 
 ---
 
