@@ -30,12 +30,7 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador Full Stack con experiencia e
 
 ---
 
-## 📈 Mis estadísticas (opcional)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
-![Top Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 ¿Hablamos?
 - ✉️ Email: elieabud@hotmail.com
