@@ -22,7 +22,8 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador Full Stack con experiencia e
 </span>
 
 
-![](https://github-readme-stats.vercel.app/api?username=elieabudk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elieabudk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elieabudk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elieabudk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
