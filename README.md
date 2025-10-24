@@ -1,6 +1,7 @@
-# 👨‍💻 ¡Hola! Soy Elie Abud – Desarrollador Full Stack
+# 👨‍💻 Hello! I'm Elie Abud – Full Stack Developer
 
-Bienvenido a mi perfil de GitHub. Soy desarrollador Full Stack con experiencia en la creación de aplicaciones web modernas, escalables y seguras. Me apasiona convertir ideas en soluciones funcionales utilizando tecnologías actuales tanto en el backend como en el frontend.
+
+Welcome to my GitHub profile. I'm a full-stack developer with experience building modern, scalable, and secure web applications. I'm passionate about turning ideas into functional solutions using current technologies on both the backend and frontend.
 
 ---
 
