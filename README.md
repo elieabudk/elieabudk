@@ -86,6 +86,7 @@ Welcome to my GitHub profile. I'm a full-stack developer with experience buildin
 ## 📫 ¿Hablamos?
 - ✉️ Email: elieabud@hotmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/elie-abud-231a7a282/)
+-	🌐 https://resumecv.elieprox.es/
 
 ---
 
