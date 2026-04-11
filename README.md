@@ -45,6 +45,8 @@ Welcome to my GitHub profile. I'm a full-stack developer with experience buildin
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
+<img src="https://shields.io">
+
 
 
 
