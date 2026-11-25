@@ -1,6 +1,6 @@
 # 👨‍💻 Hello! I'm Elie Abud – Full Stack Developer
 
-Welcome to my GitHub profile. I'm a full-stack developer with experience building modern, scalable, and secure web applications. I'm passionate about turning ideas into functional solutions using current technologies on both the backend and frontend.
+Welcome to my GitHub profile. I'm a full-stack developer and AWS Solution Arquitect Asociate with experience building modern, scalable, and secure web applications. I'm passionate about turning ideas into functional solutions using current technologies on both the backend and frontend.
 
 ---
 
